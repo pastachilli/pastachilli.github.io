@@ -1,4 +1,4 @@
-# Pastachilli's Projects
+# Pasta's Projects
 
 ## Main page for my website
 
