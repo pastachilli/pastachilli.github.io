@@ -1,4 +1,4 @@
-# Main page for my website
+# Gabes Projects
 
 You can find all of the projects i make on this website. I will link the project page and repository with each project.
 
